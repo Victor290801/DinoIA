@@ -12,6 +12,8 @@ Dentro de las lineas 89 a la 120 se ecuentran las variables y construcctuires de
 4. popsize: tamaño de los dinos iniciales
 5. muaterate: rango de mutacion 
 
+Ubicados en la lisneas de codigo siguientes: 
+
 1. targetScore encontrado en la linea del codigo 89
 2. speed encontrado en la linea del codigo 92
 3. gen encontrado en la linea del codigo 99
