@@ -1,0 +1,36 @@
+#stage {
+    text-align: center;
+    vertical-align: "middle"
+}
+
+body {
+    background-color: #19284c;
+    background-image: url("./img/b2.png");
+}
+
+footer {
+    font-display: arial;
+    font-size: 15px;
+    color: #010101;
+    text-align: center;
+}
+
+#ti {
+    text-align: center;
+}
+
+#dilo {
+    text-align: center;
+    height: 10%;
+    width: 10%;
+}
+
+.asaids {
+    width: 450px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+}
