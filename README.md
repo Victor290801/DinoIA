@@ -52,3 +52,14 @@ En este archivo se implementaron las funciones para mostrar los detalles dentro 
 ### Recomiento no modificar este archivo por nada
 En caso de que modifique sera bajo su criterio
 
+## Integrantes del equipo:
+- Leal Sánchez Roberto - 19211666
+- Lucero Naranjo Héctor Alejandro - 19211673
+- Monjardín Montaño Kevin Román - 19211689
+- Moreno Alday Saul Alejandro - 18210505
+- Nevarez Gonzalez Moises Rene - 19210528
+- Núñez Cano David - 19211696
+- Núñez Felipe José Luis - 18212233
+- Olivares Caballero Victor Emmanuel - 19211698 
+
+
